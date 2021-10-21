@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../ai/infra-horus-http/horus-http-server/src/main/java/com/meituan/horus/http/controller/HorusController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-horus/horus-server/src/main/java/com/meituan/horus/adapter/seccv/AfoTfServingAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-horus/horus-server/src/main/java/com/meituan/horus/filter/AuthFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-infrastructure/horus-infrastructure-log-starter/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-infrastructure/horus-infrastructure-retry-starter/src/main/java/com/meituan/horus/infrastructure/retry/MqRetryableConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-offline-horus/horus-offline-server/src/main/java/com/meituan/offlinehorus/thrift/TaskDataServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-resource-manager/resource-manager/src/main/java/com/meituan/cv/resource_manager/config/LionConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-resource-manager/resource-manager/src/main/java/com/meituan/cv/resource_manager/controllers/ServiceOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-resource-manager/resource-manager/src/main/java/com/meituan/cv/resource_manager/controllers/ServingJobController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-resource-manager/resource-manager/src/main/java/com/meituan/cv/resource_manager/controllers/StatusController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ai/infra-resource-manager/resource-manager/src/main/java/com/meituan/cv/resource_manager/resources/GpuResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/common-util/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/common-util/src/main/java/com/heanqing/param_check/GuavaParamCheckUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/concurrent-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/src/main/java/com/heanqing/mybatis/dao/OfflineTaskExecutionMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/java/com/heanqing/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/java/com/heanqing/starter/ConditionalSpringComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/java/com/heanqing/starter/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/java/com/heanqing/starter/Properties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/java/com/heanqing/starter/SpringComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-starter-demo/src/main/resources/META-INF/spring.factories">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
