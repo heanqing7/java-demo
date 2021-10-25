@@ -1,27 +1,33 @@
 package com.heanqing.service;
 
+import com.heanqing.anno.TestAop;
+import org.springframework.stereotype.Service;
+
+@Service("userServiceImplA")
 public class UserServiceImplA implements IUserService{
-    public int testBefore(int a, int b) {
+
+    @Override
+    public int testExecutionPointcut() {
+        System.out.println(this.getClass().getSimpleName()+"testExecutionPointcut");
         return 0;
     }
 
-    public int testAfter(int a, int b) {
+    @Override
+    public int testArgsPointcut() {
+        System.out.println(this.getClass().getSimpleName()+"testArgsPointcut");
         return 0;
     }
 
-    public int testReturning(int a, int b) {
+    @Override
+    public int testArgsPointcut(int a, int b) {
+        System.out.println(this.getClass().getSimpleName()+"testArgsPointcut with args");
         return 0;
     }
 
-    public int testThrowable(int a, int b) {
-        return 0;
-    }
-
-    public int testAroung(int a, int b) {
-        return 0;
-    }
-
-    public int testExpose(int a, int b) {
+    @Override
+    @TestAop
+    public int testAnnotationPointcut() {
+        System.out.println(this.getClass().getSimpleName()+"testAnnotationPointcut");
         return 0;
     }
 }
